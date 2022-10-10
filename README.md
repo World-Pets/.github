@@ -10,3 +10,9 @@ A página inicial é destinada aos funcionários para a realização do cadastro
 A página de criação serve para o funcionário criar uma ficha do cliente e dos seus pet.
 ![image](https://i.imgur.com/nW3yGoK.png)
 
+## Caso de uso
+As sequências de ações que poderão ser utilizadas ao usar o Programa da World Pets 
+![image](https://i.imgur.com/b58w5OM.jpg)
+
+
+
