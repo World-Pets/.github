@@ -12,7 +12,4 @@ A página de criação serve para o funcionário criar uma ficha do cliente e do
 
 ## Caso de uso
 As sequências de ações que poderão ser utilizadas ao usar o Programa da World Pets 
-![image](https://imgur.com/a/D0YvPad)
-
-
-
+![WhatsApp Image 2022-11-01 at 16 27 50](https://user-images.githubusercontent.com/103151921/199352937-3fe2745f-feb2-4df7-9e2d-b1b54bf6824d.jpeg)
