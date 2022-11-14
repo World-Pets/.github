@@ -11,9 +11,13 @@ A página de criação serve para o funcionário criar uma ficha do cliente e do
 ![image](https://i.imgur.com/nW3yGoK.png)
 
 ## Caso de uso
-As sequências de ações que poderão ser utilizadas ao usar o Programa da World Pets 
+As sequências de ações que poderão ser utilizadas ao usar o Programa da World Pets.
 ![WhatsApp Image 2022-11-01 at 16 27 50](https://user-images.githubusercontent.com/103151921/199352937-3fe2745f-feb2-4df7-9e2d-b1b54bf6824d.jpeg)
 
 ## Diagrama de classes
-O mapeamento claro sobre a estrutura do sistema utilizado no Programa da World Pets
+O mapeamento claro sobre a estrutura do sistema utilizado no Programa da World Pets.
 ![Screenshot_1](https://user-images.githubusercontent.com/103151921/200385758-fb4742a1-9122-44fb-9c92-be013ec4efbc.png)
+
+## Diagrama de atividades
+O fluxo de ações que serão realizadas no nosso sistema da World Pets.
+![Screenshot_1](https://user-images.githubusercontent.com/103151921/201767492-69da72d0-94d3-4c11-acdc-f7e0d9c42c69.png)
