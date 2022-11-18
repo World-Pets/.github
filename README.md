@@ -21,3 +21,7 @@ O mapeamento claro sobre a estrutura do sistema utilizado no Programa da World P
 ## Diagrama de atividades
 O fluxo de ações que serão realizadas no nosso sistema da World Pets.
 ![Screenshot_1](https://user-images.githubusercontent.com/103151921/201767492-69da72d0-94d3-4c11-acdc-f7e0d9c42c69.png)
+
+## Diagrama de sequência
+Representando a sequência de processos no programa da World Pets.
+![Screenshot_2](https://user-images.githubusercontent.com/103151921/202818715-b19395db-1ed1-457a-a51c-dbb8fe1801d0.png)
