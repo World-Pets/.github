@@ -1,6 +1,16 @@
 # Projeto World Pets 
 World Pet é um software de cadastro designado para as clinicas veterinárias, que tem o intuito de ajudar na organização dos registros dos animais e seus donos, economizando o uso de folhas, de tempo e aumentando a eficiência do seu estabelecimento.
 
+## Integrantes:
+- Heitor Dias
+- Tamires Rodrigues
+- Carolina Furtado
+- Rayla Bernardino
+- Camilly Vitória
+- Ellen Guimarães
+- Thalisson Rezende
+- Pedro Emílio
+
  ![image](https://user-images.githubusercontent.com/103151921/188516887-c8079370-2ba5-4160-8f22-0945681ec087.png)
 ## Página de login
 A página inicial é destinada aos funcionários para a realização do cadastro dos clientes e seus respectivos animais. Cada funcionário terá um login para que assim a clínica tenha um controle do acesso que poderá alterar e colocar novos cadastro de clientes.
@@ -26,5 +36,13 @@ O fluxo de ações que serão realizadas no nosso sistema da World Pets.
 Representando a sequência de processos que ocorrem durante o cadastro do cliente no programa da World Pets.
 ![Screenshot_2](https://user-images.githubusercontent.com/103151921/202818715-b19395db-1ed1-457a-a51c-dbb8fe1801d0.png)
 
+
+## Banco de Dados
+Banco de dados que ultilizamos na criação do software da World Pets.
+![gJJHO0i](https://user-images.githubusercontent.com/103151921/203170513-f81d50da-5d5f-4155-b1d4-806d08757e39.jpeg)
+
 ## Caso de Uso (Atualizado)
 https://imgur.com/a/VLG0SO6
+
+
+
