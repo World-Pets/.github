@@ -20,6 +20,12 @@ A página inicial é destinada aos funcionários para a realização do cadastro
 A página de criação serve para o funcionário criar uma ficha do cliente e dos seus pet.
 ![image](https://i.imgur.com/nW3yGoK.png)
 
+## Requisitos Funcionais e Não Funcionais.
+![6](https://user-images.githubusercontent.com/103151921/203176997-1fe71470-8d76-41f2-aff8-4d3f91c4b0b7.png)
+![7](https://user-images.githubusercontent.com/103151921/203176999-0ae33060-5490-450c-a54a-f45257c10fcd.png)
+
+
+
 ## Caso de uso
 As sequências de ações que poderão ser utilizadas ao usar o Programa da World Pets.
 ![WhatsApp Image 2022-11-01 at 16 27 50](https://user-images.githubusercontent.com/103151921/199352937-3fe2745f-feb2-4df7-9e2d-b1b54bf6824d.jpeg)
